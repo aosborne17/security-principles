@@ -70,7 +70,7 @@ The two main ways of dealing with these are:
 - setting Environment Variables
 - using .gitignore files
 
-####Environment Variables
+#### Environment Variables
 https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
 
 #### Managing variable on site

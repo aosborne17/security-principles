@@ -30,23 +30,6 @@ Security is a field in it's own right but as DevOps Engineers we need to securit
 ### General
 - Premises VS Cloud security
 
-### Other areas to research
-- Locking your computer
-- password management
-  - lastpass https://www.lastpass.com/solutions/business-password-manager
-- Active monitoring
-  - CPU usage
-  - State changes
-  - Data transfer
-  - monitoring open sockets in your infrastructure
-- Dodgy Activities
-- Dodgy IPs (tor network)
-- Routing, Virtual Private Networks, and encrypted Virtual Private Networks
-- Tor network
-- Honey-Pots
-- ddos-attack
-- SQL injections
-
 ## **Recognising areas of risk**
 The two main areas of risk you'll most likely be exposed to are:
 - Dealing with Secrets and keys
@@ -139,3 +122,21 @@ https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-network-and-security.
 ##### Instance (internal)
 
 ##### Also N-tier, bastions and API
+
+
+### Other areas to research
+- Locking your computer
+- password management
+  - lastpass https://www.lastpass.com/solutions/business-password-manager
+- Active monitoring
+  - CPU usage
+  - State changes
+  - Data transfer
+  - monitoring open sockets in your infrastructure
+- Dodgy Activities
+- Dodgy IPs (tor network)
+- Routing, Virtual Private Networks, and encrypted Virtual Private Networks
+- Tor network
+- Honey-Pots
+- ddos-attack
+- SQL injections

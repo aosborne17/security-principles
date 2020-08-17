@@ -10,6 +10,7 @@ Security is a field in it's own right but as DevOps Engineers we need to securit
 - SSH keys
 - Secrets and tokens
 - .gitignore
+- API key
 - Environment Variable
 - Hashicorp Vault https://www.vaultproject.io/
 
@@ -74,7 +75,7 @@ This is mostly done by setting up the different Firewalls in AWS.
 The fact that there are 3 locations can be overwhelming and confusing as well as redundant. However: **They are very important if you don't want to start mining bitcoin for someone else with your companies servers :D**
 
 The several layers provide different levels of openness for your infrastructure.
-Having different levels can also be a fail safe in case someone (or you :) ) open up a machine to the world.  
+Having different levels can also be a fail safe in case someone (or you :) ) open up a machine to the world.
 
 The following is the main architecture/hierarchy of the networking/Firewalls:
 
@@ -98,7 +99,7 @@ The following is the main architecture/hierarchy of the networking/Firewalls:
     |
     |
    \ /
-Security Groups  
+Security Groups
     |
     |
    \ /

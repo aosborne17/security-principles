@@ -118,6 +118,10 @@ https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-network-and-security.
 
 ##### NACLs
 
+- Network ACLs act as the the layer of protection on our subnets, by default they are allow-all traffic.
+- If we choose to leave it this way we can use our security groups to filter VPC traffic
+- However, for extra security it is best to use this as the first layer of defense
+
 ##### Security Groups
 
 ##### Instance (internal)
